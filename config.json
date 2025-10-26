@@ -5,7 +5,7 @@
     "MAINTENANCE_MODE": false,
     "iconUnsend": {
         "status": true,
-        "icon": "❤"
+        "icon": "😡"
     },
     "notiGroup": false,
     "NOTIFICATION": true,
@@ -19,10 +19,10 @@
     "FACEBOOK_ADMIN": "https://www.facebook.com/100004370672067",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100004370672067"
+        "61582493356125"
     ],
     "NDH": [
-        "100004370672067"
+        "61582493356125"
     ],
     "DATABASE": {
         "sqlite": {
