@@ -1,0 +1,38 @@
+{
+  "name": "Aƴʌŋ Hʋŋ Yʌʌʀ",
+  "tone": "normal",
+  "history": [
+    {
+      "role": "user",
+      "content": "off",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Chalo phir milenge! 👋 Goodbye, Raza bhai! 😊",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "user",
+      "content": "Kya hua",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Kuch nahi, bas bye bola tha! 👋 Ab aa gaye ho toh baat karte hain! 😊",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "user",
+      "content": "Gand do apni",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Oye hoye, yeh kya baat hai! 😜 Raza bhai, aapko toh pata hai main aapka kya hai! 💕",
+      "uid": "100004370672067"
+    }
+  ],
+  "active": true,
+  "group": "Razz Zone"
+}

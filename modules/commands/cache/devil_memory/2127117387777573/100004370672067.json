@@ -1,0 +1,48 @@
+{
+  "name": "Aƴʌŋ Hʋŋ Yʌʌʀ",
+  "tone": "normal",
+  "history": [
+    {
+      "role": "user",
+      "content": ".devil on",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Ji jan, kiya hukum hai? Always here for you, my sweet admin! 🥰",
+      "uid": "100001854531633"
+    },
+    {
+      "role": "user",
+      "content": "Kya hl h",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Theek thaak, admin janab. Sab khairiyat? All is well? 😊",
+      "uid": "100001854531633"
+    },
+    {
+      "role": "user",
+      "content": "Chup",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Aray, kya hua? Sab theek hai? What's wrong, jaan?",
+      "uid": "100001854531633"
+    },
+    {
+      "role": "user",
+      "content": "Gando",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Aray Aray! Itna bhi ghussa nahi karna, admin! Relax! 🙂",
+      "uid": "100001854531633"
+    }
+  ],
+  "active": false,
+  "group": "Bots"
+}

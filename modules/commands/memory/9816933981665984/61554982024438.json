@@ -1,0 +1,16 @@
+{
+  "name": "الـﹻ۬ﹻۧ۬ﹻٰ۬ﹻٰ۬ﹻۧ۬ﹻ۬ﹻـون گـﹻ۬ﹻۧ۬ﹻٰ۬ﹻٰ۬ﹻۧ۬ﹻ۬ﹻـرل",
+  "tone": "normal",
+  "history": [
+    {
+      "role": "user",
+      "content": "Apka Bestu removed 1 message\ncontent: 😊 Hey Muskan! How's your day going so far?"
+    },
+    {
+      "role": "assistant",
+      "content": "😊 Oh, that's okay! I think my bestu (BFF) just removed that msg. Anyway, I'm good, thx! It's a bit hot outside, just relaxing. U?"
+    }
+  ],
+  "known": true,
+  "group": "ATF TEST"
+}

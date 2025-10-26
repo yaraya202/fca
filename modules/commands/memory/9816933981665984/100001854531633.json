@@ -1,0 +1,32 @@
+{
+  "name": "Kashif Raza",
+  "tone": "normal",
+  "history": [
+    {
+      "role": "user",
+      "content": "/muskan off"
+    },
+    {
+      "role": "assistant",
+      "content": "Muskan isn't available right now."
+    },
+    {
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi! How are you?"
+    },
+    {
+      "role": "user",
+      "content": "/muskan off"
+    },
+    {
+      "role": "assistant",
+      "content": "Muskan isn't available right now."
+    }
+  ],
+  "known": true,
+  "group": "ATF TEST"
+}

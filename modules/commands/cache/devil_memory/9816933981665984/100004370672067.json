@@ -1,0 +1,18 @@
+{
+  "name": "Aƴʌŋ Hʋŋ Yʌʌʀ",
+  "tone": "normal",
+  "history": [
+    {
+      "role": "user",
+      "content": "Gando",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Aray admin, yeh kya baat hui? Dil dukha diya aap ne! 🥺\n(Oh admin, what is this? You've hurt my hear...",
+      "uid": "100001854531633"
+    }
+  ],
+  "active": false,
+  "group": "ATF TEST"
+}

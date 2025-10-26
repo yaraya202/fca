@@ -1,0 +1,38 @@
+{
+  "name": "Aƴʌŋ Hʋŋ Yʌʌʀ",
+  "tone": "normal",
+  "history": [
+    {
+      "role": "user",
+      "content": "Miss you",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Mujhe bhi aap ki yaad aa rahi hai, admin! ❤️ Miss you too!",
+      "uid": "100001854531633"
+    },
+    {
+      "role": "user",
+      "content": "Chl nikl",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Aray yaar, itni narazgi kyun? What did I do, admin? 🥺",
+      "uid": "100001854531633"
+    },
+    {
+      "role": "user",
+      "content": ".devil off",
+      "uid": "100004370672067"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay jan, Devil *band ho gaya*. All done, admin. ❤️",
+      "uid": "100001854531633"
+    }
+  ],
+  "active": false,
+  "group": "Ayeshu 💗🥀Gulabo 💗🥀Aashiyana 🌹"
+}

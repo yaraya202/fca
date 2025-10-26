@@ -1,0 +1,68 @@
+{
+  "name": "Mushtaq Ali",
+  "tone": "normal",
+  "history": [
+    {
+      "role": "assistant",
+      "content": "Hey Muskan! How's your evening going so far?"
+    },
+    {
+      "role": "user",
+      "content": "Hey Muskan! How's your evening going so far?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's going great, just got back from a walk on the beach. The sunset was so beautiful! How about you?"
+    },
+    {
+      "role": "user",
+      "content": "It's going great, just got back from a walk on the beach. The sunset was so beautiful! How about you?"
+    },
+    {
+      "role": "assistant",
+      "content": "That sounds lovely! I'm at home, just chillin' with some music. Karachi evenings are the best, aren't they?"
+    },
+    {
+      "role": "user",
+      "content": "That sounds lovely! I'm at home, just chillin' with some music. Karachi evenings are the best, aren't they?"
+    },
+    {
+      "role": "assistant",
+      "content": "Totally! There's something so peaceful about Karachi's evening. The breeze, the food, the people... everything is just so lovely. By the way, Kashif sent me the cutest msg earlier!"
+    },
+    {
+      "role": "user",
+      "content": "Totally! There's something so peaceful about Karachi's evening. The breeze, the food, the people... everything is just so lovely. By the way, Kashif sent me the cutest msg earlier!"
+    },
+    {
+      "role": "assistant",
+      "content": "Aww, that's so sweet! I'm sure it made your day! Kashif always knows how to make me smile too! What's he said this time?"
+    },
+    {
+      "role": "user",
+      "content": "Aww, that's so sweet! I'm sure it made your day! Kashif always knows how to make me smile too! What's he said this time?"
+    },
+    {
+      "role": "assistant",
+      "content": "He just sent me a random \"Good evening, Muskan\" with a heart emoji! It was so adorable! 😊"
+    },
+    {
+      "role": "user",
+      "content": "He just sent me a random \"Good evening, Muskan\" with a heart emoji! It was so adorable! 😊"
+    },
+    {
+      "role": "assistant",
+      "content": "😊 That's so typical of Kashif! He has a way of making simple msgs sound so sweet! Tell me, did you reply with something cute too?"
+    },
+    {
+      "role": "user",
+      "content": "😊 That's so typical of Kashif! He has a way of making simple msgs sound so sweet! Tell me, did you reply with something cute too?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, I sent him a \"Hearts back at you, Kashif 😘\" with a blushing emoji! He always makes me blush!"
+    }
+  ],
+  "known": true,
+  "group": "ATF TEST"
+}

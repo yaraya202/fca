@@ -1,0 +1,24 @@
+{
+  "name": "Apka Bestu",
+  "tone": "normal",
+  "history": [
+    {
+      "role": "user",
+      "content": "≿━━━━༺❀༻━━━━≾\n\n🌸 Muskan is now Active! Start chatting 💬\n\n≿━━━━༺❀༻━━━━≾"
+    },
+    {
+      "role": "assistant",
+      "content": "😊 Hey Muskan! How's your day going so far?"
+    },
+    {
+      "role": "user",
+      "content": "😊 Hey Muskan! How's your day going so far?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's going great, thanks! Just got back from lunch. The weather in Karachi is so hot, as usual. How about you?"
+    }
+  ],
+  "known": true,
+  "group": "ATF TEST"
+}
